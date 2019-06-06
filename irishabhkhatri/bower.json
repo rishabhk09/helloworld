@@ -1,7 +1,7 @@
 {
-  "name": "Divyanshu Portfolio",
+  "name": "Rishabh khatri Portfolio",
   "authors": [
-    "Divyanshu rawat"
+    "Rishabh khatri"
   ],
   "description": "My Portfolio",
   "main": "index.html",
@@ -11,7 +11,7 @@
     "particle.js"
   ],
   "license": "MIT",
-  "homepage": "https://divyanshurawat.herokuapp.com/",
+  
   "ignore": [
     "**/.*",
     "node_modules",
