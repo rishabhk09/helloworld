@@ -1,0 +1,22 @@
+{
+  "name": "Rishabh khatri Portfolio",
+  "authors": [
+    "Rishabh khatri"
+  ],
+  "description": "My Portfolio",
+  "main": "index.html",
+  "keywords": [
+    "Font",
+    "awesome",
+    "particle.js"
+  ],
+  "license": "MIT",
+  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
