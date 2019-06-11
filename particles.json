@@ -8,7 +8,7 @@
       }
     },
     "color": {
-      "value": "#0D5BD3"
+      "value": "#5a8258"
     },
     "shape": {
       "type": "circle",
@@ -71,11 +71,11 @@
     "detect_on": "canvas",
     "events": {
       "onhover": {
-        "enable": true,
+        "enable": false,
         "mode": "repulse"
       },
       "onclick": {
-        "enable": true,
+        "enable": false,
         "mode": "push"
       },
       "resize": true
